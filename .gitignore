@@ -1,2 +1,5 @@
 # Doctor app files to ignore
-/config.js
+config.js
+
+# Installed modules
+node_modules/
