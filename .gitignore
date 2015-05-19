@@ -3,3 +3,6 @@ config.js
 
 # Installed modules
 node_modules/
+
+# Mongodb folder
+data
