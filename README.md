@@ -18,4 +18,5 @@ The following technologies have been used in the app
 Important
 ****************************
 There may be issues with using gmail as SMTP with Drywall
-but there are fixes available online
+but the fix is to set 2 factor authentication and generate 
+an app specific password (including the spaces between the 4 digit values)
