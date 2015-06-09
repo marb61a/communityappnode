@@ -20,3 +20,5 @@ Important
 There may be issues with using gmail as SMTP with Drywall
 but the fix is to set 2 factor authentication and generate 
 an app specific password (including the spaces between the 4 digit values)
+
+Have removed the app specific password for this so that will have to be either regenerated or reinserted prior to usage.
